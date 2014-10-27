@@ -9,8 +9,7 @@ class MoviesController < ApplicationController
   end
 
   def index
-    @movies = Movie.order(params[:order])
-	@all_ratings = ['G','PG','PG-13','R','NC-17']
+  
 	redirect = false
 	
 	if params[:sort]
