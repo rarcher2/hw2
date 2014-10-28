@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HW2: RAILS INTRO - ADD FEATURES TO ROTTENPOTATOES
 ---------
 
@@ -71,3 +72,7 @@ Now you can navigate to the heroku url that heroku create printed to the console
     heroku open
 
 You can find more details on git and Heroku in the appendices of the ESaaS textbook.
+=======
+hw2
+===
+>>>>>>> 50bdcfa7c9151065595a72d186851550fb96d995
